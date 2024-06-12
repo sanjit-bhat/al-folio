@@ -31,5 +31,3 @@ Outside of academia, I interned at
 Amazon's [automated reasoning research group](https://www.amazon.science/research-areas/automated-reasoning)
 and at [Gradient](https://www.gradient.tech),
 a deep tech cybersecurity and identity infrastructure startup.
-
-[Link to my CV](/cv).
